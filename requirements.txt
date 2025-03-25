@@ -1,0 +1,11 @@
+langchain==0.0.208
+openai==0.27.8
+recbole==1.1.1
+pandas==2.0.3
+numpy==1.26.4
+scikit-learn==1.6.1
+PyYAML==6.0.2
+fastapi==0.100.0
+uvicorn==0.23.2
+ray// filepath: /Users/abdullahshaik/Documents/grad_seminar/requirements.txt
+ray[tune]
